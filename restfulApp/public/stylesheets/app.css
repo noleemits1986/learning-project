@@ -1,0 +1,12 @@
+body{
+    background-color: #39393a;
+}
+
+#item{
+    color: white;
+    padding-top: 10px;
+}
+
+.container.main {
+    margin-top: 6.0em;
+}
